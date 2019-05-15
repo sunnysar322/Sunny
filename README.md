@@ -1,4 +1,4 @@
-# Sunny Sarker
+# Welcome!
 
 Welcome to my github! On this page you can view my existing projects and see my past work for previous courses! Hope you enjoy!
 
@@ -15,7 +15,8 @@ _Favorite classes in order_:
 4. idk
 4. idk
 
-[Link](https://www.linkedin.com/in/sunny-sarker/)
+Heres a Link to my Linkedin:
+[Linkedin](https://www.linkedin.com/in/sunny-sarker/)
 
 ## my pro pic
 
