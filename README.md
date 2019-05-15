@@ -15,11 +15,6 @@ _Favorite classes in order_:
 4. idk
 4. idk
 
-Heres a Link to my Linkedin:
-[Linkedin](https://www.linkedin.com/in/sunny-sarker/)
-
-## my pro pic
-
-!(Image)(https://scontent.fijd1-1.fna.fbcdn.net/v/t31.0-8/29060879_1702330933214476_7268436803533428099_o.jpg?_nc_cat=102&_nc_ht=scontent.fijd1-1.fna&oh=8043635ea690bf6e93e86f3168d8630e&oe=5D65022B)
+[Heres a Link to my Linkedin](https://www.linkedin.com/in/sunny-sarker/) and !(Image)(https://scontent.fijd1-1.fna.fbcdn.net/v/t31.0-8/29060879_1702330933214476_7268436803533428099_o.jpg?_nc_cat=102&_nc_ht=scontent.fijd1-1.fna&oh=8043635ea690bf6e93e86f3168d8630e&oe=5D65022B)
 
 
